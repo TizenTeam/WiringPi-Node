@@ -41,4 +41,9 @@ Tom Janson | [tjanson](https://github.com/tjanson) |
 Vincent Terraillon | [LouTerrailloune](https://github.com/LouTerrailloune) | [@pure74vincent](https://twitter.com/pure74vincent)
 
 
+## Misc
 
+* https://libraries.io/npm/wiringpi-node/usage
+  * Downstream use of module
+* https://github.com/rzr/wiringpi-iotjs# 
+  * Alternate non native module supporting also IoT.js runtime that aim to align API
