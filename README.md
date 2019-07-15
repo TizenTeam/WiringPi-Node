@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# wiringpi-node
+
 Node.js bindings to [wiringPi](http://www.wiringpi.com)
 
 ## Install
@@ -38,6 +39,6 @@ Chris Continanza | [csquared](https://github.com/csquared) | [@csquared](https:/
 Tao Yuan | [taoyuan](https://github.com/taoyuan) | [@taoyvan](https://twitter.com/taoyvan)
 Tom Janson | [tjanson](https://github.com/tjanson) |
 Vincent Terraillon | [LouTerrailloune](https://github.com/LouTerrailloune) | [@pure74vincent](https://twitter.com/pure74vincent)
-=======
-# wiringpi-node
->>>>>>> 4d374c3984021daa2faf97c6a6d3821e86757baf
+
+
+
